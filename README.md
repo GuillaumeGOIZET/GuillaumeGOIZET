@@ -15,19 +15,19 @@
 <!--Intro start-->
 <ul>
 <li>
-<p>🔭 I’m currently working on <strong>Laravel, React, MySQL, MariaDB</strong></p>
+<p>🔭 I’m currently working on <strong>MySQL, PhpMyAdmin, Laragon</strong></p>
 </li>
 <li>
-<p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
+<p>🌱 I’m currently learning <strong>how to use different frameworks</strong></p>
 </li>
 <!-- <li>
 <p>☁️ I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
 </li> -->
 <li>
-<p>💬 Ask me about <strong>PHP, Laravel,JavaScript, react, MySQL, MariaDB</strong></p>
+<p>💬 Come and talk about <strong>PHP, MySQL, HTML, CSS, JavaScript</strong></p>
 </li>
 <li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:goizetg@gmail.com">goizetg@gmail.com</a></strong></p>
+<p>📫 Feel free to contact me just <strong><a href="mailto:goizetg@gmail.com">HERE</a></strong></p>
 </li>
 </ul>
 <!--Intro end-->
@@ -65,7 +65,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,git,github,vscode&perline=14">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
   </a>
 </p>
 <!-- Connect with me -->
