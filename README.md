@@ -1,76 +1,92 @@
-👋 Salut, je suis [Votre Nom] !
-🚀 À propos de moi
-Actuellement alternant développeur web passionné par la création d'expériences digitales innovantes. Je jongle entre formation théorique et pratique professionnelle pour développer mes compétences dans le développement web moderne.
-
-🎓 Formation : [Nom de votre formation/école]
-🏢 Entreprise : [Nom de votre entreprise d'alternance]
-🌱 En apprentissage : Toujours en quête de nouvelles technologies et bonnes pratiques
-💡 Objectif : Devenir développeur web fullstack confirmé
-
-🛠️ Technologies & Outils
-Frontend
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Backend
-Afficher l'image
-Afficher l'image
-Afficher l'image
-Base de données
-Afficher l'image
-Afficher l'image
-Outils
-Afficher l'image
-Afficher l'image
-Afficher l'image
-📊 Statistiques GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[votre-username]&show_icons=true&theme=radical" alt="Statistiques GitHub" />
+  <!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Guillaume</h1></summary>
+  </ul>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[votre-username]&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Programming student aspiring to work for a major company.</h2></summary>
+  </ul>
 </div>
-🎯 Projets en vedette
-🌟 Nom du Projet 1
-Description courte du projet - Technologies utilisées : React, Node.js, MongoDB
-🌟 Nom du Projet 2
-Description courte du projet - Technologies utilisées : Vue.js, PHP, MySQL
-🌟 Nom du Projet 3
-Description courte du projet - Technologies utilisées : JavaScript, Express, PostgreSQL
-📈 Mon parcours d'alternance
-
-Phase actuelle : [Exemple: 2ème année de BTS SIO option SLAM]
-Missions en entreprise :
-
-Développement d'applications web responsives
-Maintenance et amélioration de sites existants
-Participation aux projets d'équipe en méthode Agile
-Veille technologique et documentation
-
-
-
-🎯 Objectifs 2025
-
- Maîtriser React et ses écosystèmes
- Approfondir mes connaissances en backend (Node.js/Express)
- Obtenir une certification en développement web
- Contribuer à des projets open source
- Décrocher un CDI en fin d'alternance
-
-📫 Me contacter
-
-💼 LinkedIn : Votre profil LinkedIn
-📧 Email : votre.email@example.com
-🌐 Portfolio : Votre site portfolio
-
-💭 Citation du moment
-
-"Le code est comme l'humour. Quand tu dois l'expliquer, c'est mauvais." – Cory House
-
-
-⭐️ N'hésitez pas à explorer mes repositories et à me faire des retours constructifs !
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[votre-username]&color=blue" alt="Visiteurs du profil" />
+<!--Intro start-->
+<ul>
+<li>
+<p>🔭 I’m currently working on <strong>Laravel, React, MySQL, MariaDB</strong></p>
+</li>
+<li>
+<p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
+</li>
+<!-- <li>
+<p>☁️ I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
+</li> -->
+<li>
+<p>💬 Ask me about <strong>PHP, Laravel,JavaScript, react, MySQL, MariaDB</strong></p>
+</li>
+<li>
+<p>📫 Feel free to reach me out <strong><a href="mailto:goizetg@gmail.com">goizetg@gmail.com</a></strong></p>
+</li>
+</ul>
+<!--Intro end-->
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+</p>
+<table align="center">
+<tbody><tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuillaumeGOIZET&theme=dark&show_icons=true&count_private=true">
+  <br><br>
+<!--   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Marc-AntoineMarie&theme=dark&hide_border=false"> -->
+</td><td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GuillaumeGOIZET&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+  </td>
+</tr>
+</tbody></table>
+<!--- stats (end) -->
+<!--- trophy (start) -->
+<!-- <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+       <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Marc-AntoineMarie&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
+    </a>
+</div> -->
+<!--- trophy (start) -->
+<p></p>        
+<!--- stats (end) -->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
 </div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,git,github,vscode&perline=14">
+  </a>
+</p>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/guillaume-goizet-2b29b0298/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
+<!-- <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50"></a>  -->
+<!-- <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"></a> -->
+<!-- <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50"></a> -->
+<!-- <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50"></a> -->
+</p>
+<!--profile visit count-->
+<div align="center">
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1010nishant&amp;icon=3&amp;color=6" alt=""></a></p>
+</div>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
