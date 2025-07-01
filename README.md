@@ -64,6 +64,48 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php&perline=14">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://skillicons.dev/icons?i=js&perline=14">
+  </a>
+  <a href="https://html.com/">
+    <img src="https://skillicons.dev/icons?i=html&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+  </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
   </a>
