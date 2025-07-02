@@ -76,8 +76,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css&perline=14">
   </a>
+  <a href="https://www.mysql.com/fr/">
+    <img src="https://skillicons.dev/icons?i=mysql&perline=14">
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux&perline=14">
+  </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,linux,windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
+    <img src="https://skillicons.dev/icons?i=windows,wordpress,obsidian,bash,debian,docker,git,github,vscode&perline=14">
   </a>
 </p>
 <!-- Connect with me -->
