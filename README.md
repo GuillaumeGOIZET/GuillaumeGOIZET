@@ -132,10 +132,6 @@
   <img src="https://skillicons.dev/icons?i=notion&perline=14">
 </a>
 
-<a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=sql&perline=14">
-</a>
-
 <a href="https://sass-lang.com/">
   <img src="https://skillicons.dev/icons?i=scss&perline=14">
 </a>
